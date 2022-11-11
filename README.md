@@ -1,6 +1,6 @@
 # Movie App
 
-### Check The Live Website ➡️ [Live Website](https://sekunev-language-cards.netlify.app/)
+### Check The Live Website ➡️ [Live Website](https://sekunev-tailwind-movie-app.netlify.app/)
 
 ## Description
 
